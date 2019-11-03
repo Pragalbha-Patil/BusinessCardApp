@@ -1,0 +1,4 @@
+#Sun Nov 03 16:27:47 IST 2019
+base.0=/home/psp/Desktop/projects/business_card_app/build/app/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
