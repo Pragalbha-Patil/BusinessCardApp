@@ -1,6 +1,6 @@
-# business_card_app
+# Flutter Business Card App
 
-A new Flutter project.
+A business card app using Flutter.
 
 ## Getting Started
 
